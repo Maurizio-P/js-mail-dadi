@@ -1,7 +1,7 @@
 console.log("inizio esercizio mail")
 
 const mailInserita = prompt("Inserisci la tua mail")
-const mailConsentite = ["alice", "stefano"]
+const mailConsentite = ["alice@gmail.com", "stefano@gmail.com", "alessandro@gmail.com", "simona@gmail.com"]
 
 console.log(`mail inserita: ${mailInserita} mail consentite: ${mailConsentite}`)
 
